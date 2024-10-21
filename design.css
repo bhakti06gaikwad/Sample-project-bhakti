@@ -1,0 +1,38 @@
+body { 
+    font-family: Arial, sans-serif; 
+    background: url(instabg.jpg); 
+}
+        .form-container { max-width: 360px;
+             margin: auto;
+             margin-top:118px; 
+             padding: 20px;
+              background: white; 
+              box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+               border-radius: 23px;
+            }
+        .form-container h2 {
+             text-align: center;
+             }
+        .form-container input { 
+            width: 95%; 
+            padding: 10px;
+             margin: 10px 0; 
+            }
+        .form-container button {
+             width: 100%;
+              padding: 10px;
+               background: purple;
+                color: white; 
+                border: none;
+             }
+         .form-container a { 
+            text-decoration: none;
+             color: purple; 
+             display: block;
+              text-align: center;
+               margin-top: 10px;
+             }
+
+            .error {
+                color: rebeccapurple;
+            }
